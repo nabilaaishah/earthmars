@@ -1,0 +1,72 @@
+body {
+    background-color: lightcyan;
+    color: black;
+    margin: 0;
+}
+
+a {
+    color: darkcyan;
+}
+
+.intro {
+    background-color: rgb(185, 103, 117);
+    text-align: center;
+    padding: 25px 0;
+    margin-bottom: 25px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.bumi {
+    background-color: #2a8442;
+    text-align: center;
+    padding: 25px 0;
+    margin-bottom: 25px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.bumii {
+    color: #2a8442;
+}
+
+.marss {
+    background-color: #d33d1f;
+    text-align: center;
+    padding: 25px 0;
+    margin-bottom: 25px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.marsss {
+    color: #d33d1f;
+}
+
+img {
+    width: 700px;
+    height: 600px;
+}
+
+header {
+    text-align: center;
+}
+
+main {
+  color: black;
+  width: 600px;
+  padding: 25px;
+  border-style: solid;
+  border-width: thick; 5px;
+  border-color: 0, 100%, 50%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+footer {
+  background-color: hsl(240, 4%, 5%);  
+  color: white;
+  text-align: center;
+  padding: 25px 0;
+  margin-top: 25px;
+}
